@@ -29,7 +29,8 @@
 						{
 							"name": "China",
 							"capital": "Beijing",
-							"population": " 1.386 billion"
+							"population": " 1.386 billion",
+							"kim": "pim"
 						},
 						{
 							"name": "Japan",
