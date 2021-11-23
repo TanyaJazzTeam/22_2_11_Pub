@@ -12,7 +12,7 @@ msgstr "A website screenshot."
 
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:07
 msgid "A screenshot of a website using AMPiii."
-msgstr "A screenshot of a website using AMPiii."
+msgstr ""
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
